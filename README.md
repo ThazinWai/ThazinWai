@@ -1,8 +1,8 @@
 ### Hi there 👋
-## Senior Developer (Sub-Leader) :computer:
+## System Engineer (Sub-Leader) :computer:
 
 - I’m currently working on web application development
-- I’m currently learning flutter, react, software architecture and project management
+- I’m currently learning software architecture and project management
 - I’m looking to collaborate on android and web development
 - Pronouns: SHE/HER 
 - Fun fact: No Coffee, No Workee :coffee::woman_technologist: person 
