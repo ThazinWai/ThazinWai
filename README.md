@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Software Engineer (Sub-Leader) :computer:
+## Software Engineer :computer:
 
 - I’m currently working on web application development
 - I’m currently learning software architecture and project management
